@@ -1,7 +1,7 @@
 ========
-Usage
+Version
 ========
 
-To use this template, simply update it::
+Currently::
 
-	import read-the-docs-template
+	v2
