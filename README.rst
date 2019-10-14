@@ -49,11 +49,7 @@ Links
 ----------
 
 - Website: https://www.GreenLineConvoys.co.uk/
-- Mail Login: https://www.mail.GreenLineConvoys.co.uk/
 - Documentation: https://www.docs.GreenLineConvoys.co.uk/ (Your In It Right Now)
-- Staff Application: https://www.GreenLineConvoys.co.uk/apply.html
-- Unregister From Newsletter: https://www.GreenLineConvoys.co.uk/undo.html
-
 
 Support
 -------
